@@ -9,3 +9,14 @@ Tecnologías utilizadas:
     - HTML
     - Librerías JS (p5, three ...)
     
+- - - - - - - - - - - - - 
+Web Portfolio (Landing Page)
+What can you find in this repository?
+    - React + Vite Development
+    - Modular Structure
+
+Technologies used:
+    - JSX
+    - CSS
+    - HTML
+    - JS Libraries (p5, three...)
